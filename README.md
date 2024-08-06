@@ -22,7 +22,9 @@ Puedes descargarlo para tu sistema concreto en [https://www.python.org/downloads
 ## Ejecutando ⚙️
 
 - Modifica el archivo Excel de ejemplo e incorpora los datos reales de tu presentador (los facilita la Entidad) y los datos de los pagadores.
-- Ejecuta el script de python N19_generar_desde_excel.py
+- Ejecuta el script de python N19_generar_desde_excel.py. Desde la carpeta de los archivos ejecuta en la consola (cmd):
+
+  `python N19_generar_desde_excel.py`
 
 ### Resultado
 - Se genera un archivo XML con el nombre %Y-%m-%d_%H%M%S_Remesa_SEPA_Norma_19_14.xml
