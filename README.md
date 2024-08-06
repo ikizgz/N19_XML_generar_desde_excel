@@ -9,6 +9,7 @@ El script principal toma los datos de las hojas `datos_presentador` y `datos_pag
 Para utilizarlo sólamente descarga los archivos en la carpeta que desees.
 
 ### Archivos:
+
 - N19_generar_desde_excel.py
 - N19_generar_xml.py
 - Datos_Remesa_SEPA_Norma_19.xlsx
@@ -27,6 +28,7 @@ Puedes descargarlo para tu sistema concreto en [https://www.python.org/downloads
   `python N19_generar_desde_excel.py`
 
 ### Resultado
+
 - Se genera un archivo XML con el nombre %Y-%m-%d_%H%M%S_Remesa_SEPA_Norma_19_14.xml
 
 ## Licencia 📄
