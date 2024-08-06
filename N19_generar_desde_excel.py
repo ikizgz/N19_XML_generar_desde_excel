@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-#
+"""
 #  N19_generar_desde_excel.py
 #
 #  Copyright 2024 Ignacio Izaguerri
@@ -19,6 +19,7 @@
 #  along with this program; if not, write to the Free Software
 #  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
 #  MA 02110-1301, USA.
+"""
 
 import pathlib  # Módulo para manejo paths
 from datetime import datetime  # Módulo para manejo fechas
