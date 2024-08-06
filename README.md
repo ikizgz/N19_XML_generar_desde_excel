@@ -13,6 +13,8 @@ Para utilizarlo sólamente descarga los archivos en la carpeta que desees.
 - N19_generar_desde_excel.py
 - N19_generar_xml.py
 - Datos_Remesa_SEPA_Norma_19.xlsx
+- README.md
+- LICENSE.md
 
 ### Pre-requisitos 📋
 
