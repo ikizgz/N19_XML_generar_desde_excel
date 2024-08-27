@@ -18,7 +18,7 @@ Para utilizarlo sólamente descarga los archivos en la carpeta que desees.
 
 ### Pre-requisitos 📋
 
-_Necesitas tener instalado Python en tu pc._
+_Necesitas tener instalado Python en tu pc, con los módulos datetime, pandas, pathlib y xml.etree.ElementTree_
 
 Puedes descargarlo para tu sistema concreto en [https://www.python.org/downloads/]
 
